@@ -29,9 +29,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a personal repo for me to practice with web-scraping. This isn't anything *Spectacular* and is just for me to say "hey, I understand how it works.
+This is a personal repo for me to practice with web-scraping and NLP. This isn't anything *Spectacular* and is just for me to say "hey, I understand how it works.
 I basically look at a DND wiki to see if I can pull information about the spells for each class, and some rudimentary analysis is included.
 
+- The Web Scraping is basically sifting through the data on the DND Wiki for the spells.
+- The NLP is sentiment analysis to try and train a model to identify what class (evocation, necromancy, transmutation, etc) of a spell based on its description.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
