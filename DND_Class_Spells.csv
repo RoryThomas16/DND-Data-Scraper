@@ -1,0 +1,409 @@
+Artificer Spells,Bard Spells,Cleric Spells,Druid Spells,Paladin Spells,Ranger Spells,Sorcerer Spells,Warlock Spells,Wizard Spells
+Acid Splash,Blade Ward,Decompose (HB),Control Flames,Bless,Absorb Elements,Acid Splash,Blade Ward,Acid Splash
+Booming Blade,Dancing Lights,Guidance,Create Bonfire,Ceremony,Alarm,Blade Ward,Booming Blade,Blade Ward
+Create Bonfire,Friends,Hand of Radiance (UA),Druidcraft,Command,Animal Friendship,Booming Blade,Chill Touch,Booming Blade
+Dancing Lights,Light,Light,Frostbite,Compelled Duel,Beast Bond,Chill Touch,Create Bonfire,Chill Touch
+Fire Bolt,Mage Hand,Mending,Guidance,Cure Wounds,Cure Wounds,Control Flames,Eldritch Blast,Control Flames
+Frostbite,Mending,Resistance,Gust,Detect Evil and Good,Detect Magic,Create Bonfire,Friends,Create Bonfire
+Green-Flame Blade,Message,Sacred Flame,Infestation,Detect Magic,Detect Poison and Disease,Dancing Lights,Frostbite,Dancing Lights
+Guidance,Minor Illusion,Spare the Dying,Magic Stone,Detect Poison and Disease,Ensnaring Strike,Fire Bolt,Green-Flame Blade,Encode Thoughts
+Light,Prestidigitation,Thaumaturgy,Mending,Divine Favor,Entangle,Friends,Infestation,Fire Bolt
+Lightning Lure,Thunderclap,Toll the Dead,Mold Earth,Heroism,Fog Cloud,Frostbite,Lightning Lure,Friends
+Mage Hand,True Strike,Virtue (UA),Poison Spray,Protection from Evil and Good,Goodberry,Green-Flame Blade,Mage Hand,Frostbite
+Magic Stone,Vicious Mockery,Word of Radiance,Primal Savagery,Purify Food and Drink,Hail of Thorns,Gust,Magic Stone,Green-Flame Blade
+Mending,Animal Friendship,Bane,Produce Flame,Searing Smite,Hunter's Mark,Infestation,Mind Sliver,Gust
+Message,Bane,Bless,Resistance,Shield of Faith,Jump,Light,Minor Illusion,Infestation
+Poison Spray,Charm Person,Ceremony,Shape Water,Thunderous Smite,Longstrider,Lightning Lure,On/Off (UA),Light
+Prestidigitation,Color Spray,Command,Shillelagh,Wrathful Smite,Searing Smite,Mage Hand,Poison Spray,Lightning Lure
+Ray of Frost,Command,Create or Destroy Water,Thorn Whip,Aid,Snare,Mending,Prestidigitation,Mage Hand
+Resistance,Comprehend Languages,Cure Wounds,Thunderclap,Branding Smite,Speak with Animals,Message,Sword Burst,Mending
+Shocking Grasp,Cure Wounds,Detect Evil and Good,Absorb Elements,Find Steed,Sudden Awakening (UA),Mind Sliver,Thunderclap,Message
+Spare the Dying,Detect Magic,Detect Magic,Animal Friendship,Find Vehicle (UA),Wild Cunning (UA),Minor Illusion,Toll the Dead,Mind Sliver
+Sword Burst,Disguise Self,Detect Poison and Disease,Beast Bond,Gentle Repose,Zephyr Strike,Mold Earth,True Strike,Minor Illusion
+Thorn Whip,Dissonant Whispers,Guiding Bolt,Charm Person,Lesser Restoration,Aid,On/Off (UA),Armor of Agathys,Mold Earth
+Thunderclap,Distort Value,Guiding Hand (UA),Create or Destroy Water,Locate Object,Air Bubble,Poison Spray,Arms of Hadar,On/Off (UA)
+Absorb Elements,Earth Tremor,Healing Word,Cure Wounds,Magic Weapon,Animal Messenger,Prestidigitation,Cause Fear,Poison Spray
+Alarm,Faerie Fire,Inflict Wounds,Detect Magic,Prayer of Healing,Barkskin,Ray of Frost,Charm Person,Prestidigitation
+Arcane Weapon (UA),Feather Fall,Protection from Evil and Good,Detect Poison and Disease,Protection from Poison,Beast Sense,Shape Water,Comprehend Languages,Ray of Frost
+Catapult,Guiding Hand (UA),Purify Food and Drink,Earth Tremor,Warding Bond,Cordon of Arrows,Shocking Grasp,Distort Value,Sapping Sting
+Cure Wounds,Healing Word,Sanctuary,Entangle,Zone of Truth,Darkvision,Sword Burst,Expeditious Retreat,Shape Water
+Detect Magic,Heroism,Shield of Faith,Faerie Fire,Aura of Vitality,Enhance Ability,Thunderclap,Healing Elixir (UA),Shocking Grasp
+Disguise Self,Identify,Aid,Fog Cloud,Blinding Smite,Find Traps,True Strike,Hellish Rebuke,Sword Burst
+Expeditious Retreat,Illusory Script,Augury,Goodberry,Create Food and Water,Gust of Wind,Absorb Elements,Hex,Thunderclap
+Faerie Fire,Longstrider,Blindness/Deafness,Guiding Hand (UA),Crusader's Mantle,Healing Spirit,Acid Stream (UA),Id Insinuation (UA),Toll the Dead
+False Life,Puppet (UA),Borrowed Knowledge,Healing Word,Daylight,Lesser Restoration,Burning Hands,Illusory Script,True Strike
+Feather Fall,Sense Emotion (UA),Calm Emotions,Ice Knife,Dispel Magic,Locate Animals or Plants,Catapult,Infallible Relay (UA),Absorb Elements
+Grease,Silent Image,Continual Flame,Jump,Elemental Weapon,Locate Object,Chaos Bolt,Protection from Evil and Good,Acid Stream (UA)
+Identify,Silvery Barbs,Enhance Ability,Longstrider,Magic Circle,Magic Weapon,Charm Person,Puppet (UA),Alarm
+Jump,Sleep,Find Traps,Protection from Evil and Good,Remove Curse,Pass Without Trace,Chromatic Orb,Remote Access (UA),Burning Hands
+Longstrider,Speak with Animals,Gentle Repose,Purify Food and Drink,Revivify,Protection from Poison,Color Spray,Sense Emotion (UA),Catapult
+Purify Food and Drink,Sudden Awakening (UA),Hold Person,Snare,Spirit Shroud,Silence,Comprehend Languages,Unseen Servant,Cause Fear
+Sanctuary,Tasha's Hideous Laughter,Lesser Restoration,Speak with Animals,Aura of Life,Spike Growth,Detect Magic,Witch Bolt,Charm Person
+Snare,Thunderwave,Locate Object,Thunderwave,Aura of Purity,Summon Beast,Disguise Self,Arcane Hacking (UA),Chromatic Orb
+Tasha's Caustic Brew,Unearthly Chorus (UA),Prayer of Healing,Wild Cunning (UA),Banishment,Ashardalon's Stride,Distort Value,Borrowed Knowledge,Color Spray
+Aid,Unseen Servant,Protection from Poison,Air Bubble,Death Ward,Conjure Animals,Earth Tremor,Cloud of Daggers,Comprehend Languages
+Air Bubble,Aid,Silence,Animal Messenger,Find Greater Steed,Conjure Barrage,Expeditious Retreat,Crown of Madness,Detect Magic
+Alter Self,Animal Messenger,Spiritual Weapon,Augury,Locate Creature,Daylight,False Life,Darkness,Disguise Self
+Arcane Lock,Blindness/Deafness,Warding Bond,Barkskin,Staggering Smite,Elemental Weapon,Feather Fall,Digital Phantom (UA),Distort Value
+Blur,Borrowed Knowledge,Zone of Truth,Beast Sense,Banishing Smite,Flame Arrows,Fog Cloud,Earthbind,Earth Tremor
+Continual Flame,Calm Emotions,Animate Dead,Continual Flame,Circle of Power,Flame Stride (UA),Grease,Enthrall,Expeditious Retreat
+Darkvision,Cloud of Daggers,Aura of Vitality,Darkvision,Destructive Wave,Freedom of the Waves (HB),Ice Knife,Find Vehicle (UA),False Life
+Enhance Ability,Crown of Madness,Beacon of Hope,Dust Devil,Dispel Evil and Good,Lightning Arrow,Id Insinuation (UA),Flock of Familiars,Feather Fall
+Enlarge/Reduce,Detect Thoughts,Bestow Curse,Earthbind,Geas,Meld into Stone,Infallible Relay (UA),Hold Person,Find Familiar
+Heat Metal,Enhance Ability,Clairvoyance,Enhance Ability,Holy Weapon,Nondetection,Jump,Invisibility,Fog Cloud
+Invisibility,Enlarge/Reduce,Create Food and Water,Enlarge/Reduce,Raise Dead,Plant Growth,Mage Armor,Mental Barrier (UA),Frost Fingers
+Kinetic Jaunt,Enthrall,Daylight,Find Traps,,Protection from Energy,Magic Missile,Mind Spike,Gift of Alacrity
+Lesser Restoration,Gift of Gab,Dispel Magic,Flame Blade,,Revivify,Ray of Sickness,Mind Thrust (UA),Grease
+Levitate,Heat Metal,Fast Friends,Flaming Sphere,,Speak with Plants,Remote Access (UA),Mirror Image,Guiding Hand (UA)
+Magic Mouth,Hold Person,Feign Death,Gust of Wind,,Summon Fey,Shield,Misty Step,Healing Elixir (UA)
+Magic Weapon,Invisibility,Glyph of Warding,Healing Spirit,,Water Breathing,Silent Image,Ray of Enfeeblement,Ice Knife
+Protection from Poison,Kinetic Jaunt,Incite Greed,Heat Metal,,Water Walk,Silvery Barbs,Shadow Blade,Id Insinuation (UA)
+Pyrotechnics,Knock,Life Transference,Hold Person,,Wind Wall,Sleep,Shatter,Identify
+Rope Trick,Lesser Restoration,Magic Circle,Lesser Restoration,,Conjure Woodland Beings,Sudden Awakening (UA),Spider Climb,Illusory Script
+See Invisibility,Locate Animals or Plants,Mass Healing Word,Locate Animals or Plants,,Dominate Beast,Tasha's Caustic Brew,Spray Of Cards,Infallible Relay (UA)
+Skywrite,Locate Object,Meld into Stone,Locate Object,,Freedom of Movement,Thunderwave,Spray of Cards (UA),Jim's Magic Missile
+Spider Climb,Magic Mouth,Motivational Speech,Moonbeam,,Grasping Vine,Witch Bolt,Suggestion,Jump
+Vortex Warp,Mirror Image,Protection from Energy,Pass Without Trace,,Guardian of Nature,Aganazzar's Scorcher,Thought Shield (UA),Longstrider
+Web,Nathair's Mischief,Remove Curse,Protection from Poison,,Locate Creature,Air Bubble,Warp Sense,Mage Armor
+Ashardalon's Stride,Nathair's Mischief (UA),Revivify,Skywrite,,Stoneskin,Alter Self,Antagonize,Magic Missile
+Blink,Phantasmal Force,Sending,Spike Growth,,Summon Elemental,Arcane Hacking (UA),Antagonize (UA),Magnify Gravity
+Catnap,Pyrotechnics,Speak with Dead,Summon Beast,,Commune with Nature,Blindness/Deafness,Counterspell,Protection from Evil and Good
+Create Food and Water,See Invisibility,Spirit Guardians,Warding Wind,,Conjure Volley,Blur,Dispel Magic,Puppet (UA)
+Dispel Magic,Shatter,Spirit Shroud,Wither and Bloom,,Freedom of the Winds (HB),Cloud of Daggers,Enemies Abound,Ray of Sickness
+Elemental Weapon,Silence,Tongues,Aura of Vitality,,Greater Restoration,Crown of Madness,Fear,Remote Access (UA)
+Flame Arrows,Skywrite,Water Walk,Call Lightning,,Steel Wind Strike,Darkness,Fly,Sense Emotion (UA)
+Flame Stride (UA),Spray Of Cards,Aura of Life,Conjure Animals,,Swift Quiver,Darkvision,Gaseous Form,Shield
+Fly,Spray of Cards (UA),Aura of Purity,Daylight,,Tree Stride,Detect Thoughts,Haywire (UA),Silent Image
+Glyph of Warding,Suggestion,Banishment,Dispel Magic,,,Digital Phantom (UA),Hunger Of Hadar,Silvery Barbs
+Haste,Warding Wind,Control Water,Elemental Weapon,,,Dragon's Breath,Hypnotic Pattern,Sleep
+House of Cards (UA),Zone of Truth,Death Ward,Erupting Earth,,,Dust Devil,Incite Greed,Snare
+Intellect Fortress,Antagonize,Divination,Feign Death,,,Earthbind,Intellect Fortress,Sudden Awakening (UA)
+Protection from Energy,Antagonize (UA),Freedom of Movement,Flame Arrows,,,Enhance Ability,Invisibility To Cameras (UA),Tasha's Caustic Brew
+Revivify,Bestow Curse,Guardian of Faith,Freedom of the Waves (HB),,,Enlarge/Reduce,Magic Circle,Tasha's Hideous Laughter
+Tiny Servant,Catnap,Locate Creature,Meld into Stone,,,Find Vehicle (UA),Major Image,Tenser's Floating Disk
+Water Breathing,Clairvoyance,Stone Shape,Plant Growth,,,Flame Blade,Protection from Ballistics (UA),Thunderwave
+Water Walk,Dispel Magic,Commune,Protection from Energy,,,Flaming Sphere,Psionic Blast (UA),Unseen Servant
+Arcane Eye,Enemies Abound,Contagion,Revivify,,,Gust of Wind,Remove Curse,Witch Bolt
+Elemental Bane,Fast Friends,Dawn,Sleet Storm,,,Hold Person,Spirit Shroud,Aganazzar's Scorcher
+Fabricate,Fear,Dispel Evil and Good,Speak with Plants,,,Icingdeath's Frost (UA),Summon Fey,Air Bubble
+Freedom of Movement,Feign Death,Flame Strike,Summon Fey,,,Invisibility,Summon Lesser Demons,Alter Self
+Leomund's Secret Chest,Glyph of Warding,Geas,Tidal Wave,,,Kinetic Jaunt,Summon Shadowspawn,Arcane Hacking (UA)
+Mordenkainen's Faithful Hound,House of Cards (UA),Greater Restoration,Wall of Water,,,Knock,Summon Undead,Arcane Lock
+Mordenkainen's Private Sanctum,Hypnotic Pattern,Hallow,Water Breathing,,,Levitate,Summon Warrior Spirit (UA),Augury
+Otiluke's Resilient Sphere,Intellect Fortress,Holy Weapon,Water Walk,,,Magic Weapon,Thunder Step,Blindness/Deafness
+Stone Shape,Leomund's Tiny Hut,Insect Plague,Wind Wall,,,Maximillian's Earthen Grasp,Tongues,Blur
+Stoneskin,Major Image,Legend Lore,Blight,,,Mental Barrier (UA),Vampiric Touch,Borrowed Knowledge
+Summon Construct,Mass Healing Word,Mass Cure Wounds,Charm Monster,,,Mind Spike,Banishment,Cloud of Daggers
+Animate Objects,Motivational Speech,Planar Binding,Confusion,,,Mind Thrust (UA),Blight,Continual Flame
+Bigby's Hand,Nondetection,Raise Dead,Conjure Minor Elementals,,,Mirror Image,Charm Monster,Crown of Madness
+Create Spelljamming Helm,Plant Growth,Scrying,Conjure Woodland Beings,,,Misty Step,Conjure Knowbot (UA),Darkness
+Creation,Sending,Summon Celestial,Control Water,,,Nathair's Mischief,Dimension Door,Darkvision
+Greater Restoration,Slow,Blade Barrier,Divination,,,Nathair's Mischief (UA),Ego Whip (UA),Detect Thoughts
+Skill Empowerment,Speak with Dead,Create Undead,Dominate Beast,,,Phantasmal Force,Elemental Bane,Digital Phantom (UA)
+Transmute Rock,Speak with Plants,Find the Path,Elemental Bane,,,Pyrotechnics,Galder's Speedy Courier,Dragon's Breath
+,Stinking Cloud,Forbiddance,Fire Shield,,,Rime's Binding Ice,Gate Seal,Dust Devil
+,Tongues,Harm,Freedom of Movement,,,Scorching Ray,Hallucinatory Terrain,Earthbind
+,Charm Monster,Heal,Giant Insect,,,See Invisibility,Raulothim's Psychic Lance,Enhance Ability
+,Compulsion,Heroes' Feast,Grasping Vine,,,Shadow Blade,Raulothim's Psychic Lance (UA),Enlarge/Reduce
+,Confusion,Otherworldly Form (UA),Guardian of Nature,,,Shatter,Shadow Of Moil,Find Vehicle (UA)
+,Dimension Door,Planar Ally,Hallucinatory Terrain,,,Snilloc's Snowball Swarm,Sickening Radiance,Flaming Sphere
+,Ego Whip (UA),Sunbeam,Ice Storm,,,Spider Climb,Spirit Of Death,Flock of Familiars
+,Freedom of Movement,True Seeing,Locate Creature,,,Spray Of Cards,Spirit of Death (UA),Fortune's Favor
+,Greater Invisibility,Word of Recall,Polymorph,,,Spray of Cards (UA),Summon Aberration,Gentle Repose
+,Hallucinatory Terrain,Conjure Celestial,Stone Shape,,,Suggestion,Summon Greater Demon,Gift of Gab
+,Locate Creature,Divine Word,Stoneskin,,,Tasha's Mind Whip,Synchronicity (UA),Gust of Wind
+,Phantasmal Killer,Etherealness,Summon Elemental,,,Thought Shield (UA),System Backdoor (UA),Hold Person
+,Polymorph,Fire Storm,Wall of Fire,,,Vortex Warp,Commune with City (UA),Icingdeath's Frost (UA)
+,Raulothim's Psychic Lance,Plane Shift,Watery Sphere,,,Warding Wind,Contact Other Plane,Immovable Object
+,Raulothim's Psychic Lance (UA),Regenerate,Antilife Shell,,,Warp Sense,Danse Macabre,Invisibility
+,Animate Objects,Resurrection,Awaken,,,Web,Dream,Jim's Glowing Coin
+,Awaken,Symbol,Commune with Nature,,,Wither and Bloom,Enervation,Kinetic Jaunt
+,Dominate Person,Temple of the Gods,Cone of Cold,,,Antagonize,Far Step,Knock
+,Dream,Antimagic Field,Conjure Elemental,,,Antagonize (UA),Hold Monster,Levitate
+,Geas,Control Weather,Contagion,,,Ashardalon's Stride,Infernal Calling,Locate Object
+,Greater Restoration,Earthquake,Control Winds,,,Blink,Mislead,Magic Mouth
+,Hold Monster,Holy Aura,Freedom of the Winds (HB),,,Catnap,Negative Energy Flood,Magic Weapon
+,Legend Lore,Sunburst,Geas,,,Clairvoyance,Planar Binding,Maximillian's Earthen Grasp
+,Mass Cure Wounds,Astral Projection,Greater Restoration,,,Conjure Lesser Demon (UA),Scrying,Melf's Acid Arrow
+,Mislead,Gate,Insect Plague,,,Counterspell,Shutdown (UA),Mental Barrier (UA)
+,Modify Memory,Mass Heal,Maelstrom,,,Daylight,Synaptic Static,Mind Spike
+,Planar Binding,Power Word: Heal,Mass Cure Wounds,,,Dispel Magic,Teleportation Circle,Mind Thrust (UA)
+,Raise Dead,,Planar Binding,,,Enemies Abound,Wall of Light,Mirror Image
+,Rary's Telepathic Bond,,Reincarnate,,,Erupting Earth,Arcane Gate,Misty Step
+,Scrying,,Scrying,,,Fear,Circle of Death,Nathair's Mischief
+,Seeming,,Summon Draconic Spirit,,,Fireball,Conjure Fey,Nathair's Mischief (UA)
+,Skill Empowerment,,Summon Draconic Spirit (UA),,,Flame Arrows,Create Undead,Nystul's Magic Aura
+,Synaptic Static,,Transmute Rock,,,Flame Stride (UA),Eyebite,Phantasmal Force
+,Teleportation Circle,,Tree Stride,,,Fly,Flesh to Stone,Pyrotechnics
+,Eyebite,,Wall of Stone,,,Freedom of the Waves (HB),Investiture of Flame,Ray of Enfeeblement
+,Find the Path,,Wrath Of Nature,,,Gaseous Form,Investiture of Ice,Rime's Binding Ice
+,Guards and Wards,,Bones of the Earth,,,Haste,Investiture of Stone,Rope Trick
+,Heroes' Feast,,Conjure Fey,,,Haywire (UA),Investiture of Wind,Scorching Ray
+,Mass Suggestion,,Druid Grove,,,House of Cards (UA),Mass Suggestion,See Invisibility
+,Otto's Irresistible Dance,,Find the Path,,,Hypnotic Pattern,Mental Prison,Shadow Blade
+,Programmed Illusion,,Flesh to Stone,,,Incite Greed,Otherworldly Form (UA),Shatter
+,True Seeing,,Heal,,,Intellect Fortress,Psychic Crush (UA),Skywrite
+,Dream of the Blue Veil,,Heroes' Feast,,,Invisibility To Cameras (UA),Scatter,Snilloc's Snowball Swarm
+,Etherealness,,Investiture of Flame,,,Lightning Bolt,Soul Cage,Spider Climb
+,Forcecage,,Investiture of Ice,,,Major Image,Summon Fiend,Spray Of Cards
+,Mirage Arcane,,Investiture of Stone,,,Melf's Minute Meteors,Tasha's Otherworldly Guise,Spray of Cards (UA)
+,Mordenkainen's Magnificent Mansion,,Investiture of Wind,,,Protection from Ballistics (UA),True Seeing,Suggestion
+,Mordenkainen's Sword,,Move Earth,,,Protection from Energy,Crown of Stars,Tasha's Mind Whip
+,Prismatic Spray,,Primordial Ward,,,Psionic Blast (UA),Dream of the Blue Veil,Thought Shield (UA)
+,Project Image,,Sunbeam,,,Sleet Storm,Etherealness,Vortex Warp
+,Regenerate,,Transport via Plants,,,Slow,Finger of Death,Warding Wind
+,Resurrection,,Wall of Thorns,,,Stinking Cloud,Forcecage,Warp Sense
+,Symbol,,Wind Walk,,,Summon Warrior Spirit (UA),Plane Shift,Web
+,Teleport,,Draconic Transformation,,,Thunder Step,Power Word: Pain,Wither and Bloom
+,Antipathy/Sympathy,,Draconic Transformation (UA),,,Tidal Wave,Demiplane,Wristpocket
+,Dominate Monster,,Fire Storm,,,Tongues,Dominate Monster,Animate Dead
+,Feeblemind,,Mirage Arcane,,,Vampiric Touch,Feeblemind,Antagonize
+,Glibness,,Plane Shift,,,Wall of Water,Glibness,Antagonize (UA)
+,Mind Blank,,Regenerate,,,Water Breathing,Maddening Darkness,Ashardalon's Stride
+,Power Word: Stun,,Reverse Gravity,,,Water Walk,Power Word: Stun,Bestow Curse
+,Foresight,,Symbol,,,Banishment,Astral Projection,Blink
+,Mass Polymorph,,Whirlwind,,,Blight,Blade of Disaster,Catnap
+,Power Word: Heal,,Animal Shapes,,,Charm Monster,Foresight,Clairvoyance
+,Power Word: Kill,,Antipathy/Sympathy,,,Confusion,Gate,Conjure Lesser Demon (UA)
+,Prismatic Wall,,Control Weather,,,Conjure Barlgura (UA),Imprisonment,Counterspell
+,Psychic Scream,,Earthquake,,,Conjure Knowbot (UA),Power Word: Kill,Dispel Magic
+,,,Feeblemind,,,Conjure Shadow Demon (UA),Psychic Scream,Enemies Abound
+,,,Incendiary Cloud,,,Dimension Door,True Polymorph,Erupting Earth
+,,,Sunburst,,,Dominate Beast,,Fast Friends
+,,,Tsunami,,,Ego Whip (UA),,Fear
+,,,Foresight,,,Fire Shield,,Feign Death
+,,,Shapechange,,,Gate Seal,,Fireball
+,,,Storm of Vengeance,,,Greater Invisibility,,Flame Arrows
+,,,,,,Ice Storm,,Flame Stride (UA)
+,,,,,,Polymorph,,Fly
+,,,,,,Raulothim's Psychic Lance,,Galder's Tower
+,,,,,,Raulothim's Psychic Lance (UA),,Gaseous Form
+,,,,,,Sickening Radiance,,Glyph of Warding
+,,,,,,Spirit Of Death,,Haste
+,,,,,,Spirit of Death (UA),,Haywire (UA)
+,,,,,,Stoneskin,,House of Cards (UA)
+,,,,,,Storm Sphere,,Hypnotic Pattern
+,,,,,,Synchronicity (UA),,Incite Greed
+,,,,,,System Backdoor (UA),,Intellect Fortress
+,,,,,,Vitriolic Sphere,,Invisibility To Cameras (UA)
+,,,,,,Wall of Fire,,Leomund's Tiny Hut
+,,,,,,Watery Sphere,,Life Transference
+,,,,,,Animate Objects,,Lightning Bolt
+,,,,,,Bigby's Hand,,Magic Circle
+,,,,,,Cloudkill,,Major Image
+,,,,,,Commune with City (UA),,Melf's Minute Meteors
+,,,,,,Cone of Cold,,Nondetection
+,,,,,,Conjure Vrock (UA),,Phantom Steed
+,,,,,,Control Winds,,Protection from Ballistics (UA)
+,,,,,,Creation,,Protection from Energy
+,,,,,,Dominate Person,,Psionic Blast (UA)
+,,,,,,Enervation,,Pulse Wave
+,,,,,,Far Step,,Remove Curse
+,,,,,,Freedom of the Winds (HB),,Sending
+,,,,,,Hold Monster,,Sleet Storm
+,,,,,,Immolation,,Slow
+,,,,,,Insect Plague,,Speak with Dead
+,,,,,,Seeming,,Spirit Shroud
+,,,,,,Shutdown (UA),,Stinking Cloud
+,,,,,,Skill Empowerment,,Summon Fey
+,,,,,,Summon Draconic Spirit,,Summon Lesser Demons
+,,,,,,Summon Draconic Spirit (UA),,Summon Shadowspawn
+,,,,,,Synaptic Static,,Summon Undead
+,,,,,,Telekinesis,,Summon Warrior Spirit (UA)
+,,,,,,Teleportation Circle,,Thunder Step
+,,,,,,Wall of Light,,Tidal Wave
+,,,,,,Wall of Stone,,Tiny Servant
+,,,,,,Arcane Gate,,Tongues
+,,,,,,Chain Lightning,,Vampiric Touch
+,,,,,,Circle of Death,,Wall of Sand
+,,,,,,Disintegrate,,Wall of Water
+,,,,,,Eyebite,,Water Breathing
+,,,,,,Fizban's Platinum Shield,,Arcane Eye
+,,,,,,Fizban's Platinum Shield (UA),,Banishment
+,,,,,,Flesh to Stone,,Blight
+,,,,,,Globe of Invulnerability,,Charm Monster
+,,,,,,Investiture of Flame,,Confusion
+,,,,,,Investiture of Ice,,Conjure Barlgura (UA)
+,,,,,,Investiture of Stone,,Conjure Knowbot (UA)
+,,,,,,Investiture of Wind,,Conjure Minor Elementals
+,,,,,,Mass Suggestion,,Conjure Shadow Demon (UA)
+,,,,,,Mental Prison,,Control Water
+,,,,,,Move Earth,,Dimension Door
+,,,,,,Otherworldly Form (UA),,Divination
+,,,,,,Otiluke's Freezing Sphere,,Ego Whip (UA)
+,,,,,,Psychic Crush (UA),,Elemental Bane
+,,,,,,Scatter,,Evard's Black Tentacles
+,,,,,,Sunbeam,,Fabricate
+,,,,,,Tasha's Otherworldly Guise,,Fire Shield
+,,,,,,True Seeing,,Galder's Speedy Courier
+,,,,,,Conjure Hezrou (UA),,Gate Seal
+,,,,,,Crown of Stars,,Gravity Sinkhole
+,,,,,,Delayed Blast Fireball,,Greater Invisibility
+,,,,,,Draconic Transformation,,Hallucinatory Terrain
+,,,,,,Draconic Transformation (UA),,Ice Storm
+,,,,,,Dream of the Blue Veil,,Leomund's Secret Chest
+,,,,,,Etherealness,,Locate Creature
+,,,,,,Finger of Death,,Mordenkainen's Faithful Hound
+,,,,,,Fire Storm,,Mordenkainen's Private Sanctum
+,,,,,,Plane Shift,,Otiluke's Resilient Sphere
+,,,,,,Power Word: Pain,,Phantasmal Killer
+,,,,,,Prismatic Spray,,Polymorph
+,,,,,,Reverse Gravity,,Raulothim's Psychic Lance
+,,,,,,Teleport,,Raulothim's Psychic Lance (UA)
+,,,,,,Abi-Dalzim's Horrid Wilting,,Sickening Radiance
+,,,,,,Demiplane,,Spirit Of Death
+,,,,,,Dominate Monster,,Spirit of Death (UA)
+,,,,,,Earthquake,,Stone Shape
+,,,,,,Incendiary Cloud,,Stoneskin
+,,,,,,Power Word: Stun,,Storm Sphere
+,,,,,,Sunburst,,Summon Aberration
+,,,,,,Blade of Disaster,,Summon Construct
+,,,,,,Gate,,Summon Elemental
+,,,,,,Mass Polymorph,,Summon Greater Demon
+,,,,,,Meteor Swarm,,Synchronicity (UA)
+,,,,,,Power Word: Kill,,System Backdoor (UA)
+,,,,,,Psychic Scream,,Vitriolic Sphere
+,,,,,,Time Stop,,Wall of Fire
+,,,,,,,,Watery Sphere
+,,,,,,,,Widogast's Vault of Amber (HB)
+,,,,,,,,Widogast's Web of Fire (HB)
+,,,,,,,,Animate Objects
+,,,,,,,,Bigby's Hand
+,,,,,,,,Cloudkill
+,,,,,,,,Commune with City (UA)
+,,,,,,,,Cone of Cold
+,,,,,,,,Conjure Elemental
+,,,,,,,,Conjure Vrock (UA)
+,,,,,,,,Contact Other Plane
+,,,,,,,,Control Winds
+,,,,,,,,Create Spelljamming Helm
+,,,,,,,,Creation
+,,,,,,,,Danse Macabre
+,,,,,,,,Dawn
+,,,,,,,,Dominate Person
+,,,,,,,,Dream
+,,,,,,,,Enervation
+,,,,,,,,Far Step
+,,,,,,,,Geas
+,,,,,,,,Hold Monster
+,,,,,,,,Immolation
+,,,,,,,,Infernal Calling
+,,,,,,,,Legend Lore
+,,,,,,,,Mislead
+,,,,,,,,Modify Memory
+,,,,,,,,Negative Energy Flood
+,,,,,,,,Passwall
+,,,,,,,,Planar Binding
+,,,,,,,,Rary's Telepathic Bond
+,,,,,,,,Scrying
+,,,,,,,,Seeming
+,,,,,,,,Shutdown (UA)
+,,,,,,,,Skill Empowerment
+,,,,,,,,Steel Wind Strike
+,,,,,,,,Summon Draconic Spirit
+,,,,,,,,Summon Draconic Spirit (UA)
+,,,,,,,,Synaptic Static
+,,,,,,,,Telekinesis
+,,,,,,,,Teleportation Circle
+,,,,,,,,Temporal Shunt
+,,,,,,,,Transmute Rock
+,,,,,,,,Wall of Force
+,,,,,,,,Wall of Light
+,,,,,,,,Wall of Stone
+,,,,,,,,Arcane Gate
+,,,,,,,,Chain Lightning
+,,,,,,,,Circle of Death
+,,,,,,,,Contingency
+,,,,,,,,Create Homunculus
+,,,,,,,,Create Undead
+,,,,,,,,Disintegrate
+,,,,,,,,Drawmij's Instant Summons
+,,,,,,,,Eyebite
+,,,,,,,,Fizban's Platinum Shield
+,,,,,,,,Fizban's Platinum Shield (UA)
+,,,,,,,,Flesh to Stone
+,,,,,,,,Globe of Invulnerability
+,,,,,,,,Gravity Fissure
+,,,,,,,,Guards and Wards
+,,,,,,,,Investiture of Flame
+,,,,,,,,Investiture of Ice
+,,,,,,,,Investiture of Stone
+,,,,,,,,Investiture of Wind
+,,,,,,,,Magic Jar
+,,,,,,,,Mass Suggestion
+,,,,,,,,Mental Prison
+,,,,,,,,Move Earth
+,,,,,,,,Otherworldly Form (UA)
+,,,,,,,,Otiluke's Freezing Sphere
+,,,,,,,,Otto's Irresistible Dance
+,,,,,,,,Programmed Illusion
+,,,,,,,,Psychic Crush (UA)
+,,,,,,,,Scatter
+,,,,,,,,Soul Cage
+,,,,,,,,Summon Fiend
+,,,,,,,,Sunbeam
+,,,,,,,,Tasha's Otherworldly Guise
+,,,,,,,,Tenser's Transformation
+,,,,,,,,True Seeing
+,,,,,,,,Wall of Ice
+,,,,,,,,Widogast's Transmogrification (HB)
+,,,,,,,,Conjure Hezrou (UA)
+,,,,,,,,Create Magen
+,,,,,,,,Crown of Stars
+,,,,,,,,Delayed Blast Fireball
+,,,,,,,,Draconic Transformation
+,,,,,,,,Draconic Transformation (UA)
+,,,,,,,,Dream of the Blue Veil
+,,,,,,,,Etherealness
+,,,,,,,,Finger of Death
+,,,,,,,,Forcecage
+,,,,,,,,Mirage Arcane
+,,,,,,,,Mordenkainen's Magnificent Mansion
+,,,,,,,,Mordenkainen's Sword
+,,,,,,,,Plane Shift
+,,,,,,,,Power Word: Pain
+,,,,,,,,Prismatic Spray
+,,,,,,,,Project Image
+,,,,,,,,Reverse Gravity
+,,,,,,,,Sequester
+,,,,,,,,Simulacrum
+,,,,,,,,Symbol
+,,,,,,,,Teleport
+,,,,,,,,Tether Essence
+,,,,,,,,Whirlwind
+,,,,,,,,Abi-Dalzim's Horrid Wilting
+,,,,,,,,Antimagic Field
+,,,,,,,,Antipathy/Sympathy
+,,,,,,,,Clone
+,,,,,,,,Control Weather
+,,,,,,,,Dark Star
+,,,,,,,,Demiplane
+,,,,,,,,Dominate Monster
+,,,,,,,,Feeblemind
+,,,,,,,,Illusory Dragon
+,,,,,,,,Incendiary Cloud
+,,,,,,,,Maddening Darkness
+,,,,,,,,Maze
+,,,,,,,,Mighty Fortress
+,,,,,,,,Mind Blank
+,,,,,,,,Power Word: Stun
+,,,,,,,,Reality Break
+,,,,,,,,Sunburst
+,,,,,,,,Telepathy
+,,,,,,,,Astral Projection
+,,,,,,,,Blade of Disaster
+,,,,,,,,Foresight
+,,,,,,,,Gate
+,,,,,,,,Imprisonment
+,,,,,,,,Invulnerability
+,,,,,,,,Mass Polymorph
+,,,,,,,,Meteor Swarm
+,,,,,,,,Power Word: Kill
+,,,,,,,,Prismatic Wall
+,,,,,,,,Psychic Scream
+,,,,,,,,Ravenous Void
+,,,,,,,,Shapechange
+,,,,,,,,Time Ravage
+,,,,,,,,Time Stop
+,,,,,,,,True Polymorph
+,,,,,,,,Weird
