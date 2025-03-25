@@ -1,4 +1,4 @@
-# Machine Learning Practice | 2021 Census - 2024 General Election Predictor
+# Machine Learning Practice | DND Wiki Web-Scraper and Spell Semantic Analysis
 
 <!-- Credit to: https://github.com/othneildrew/Best-README-Template/blob/main/README.md for the Template <3 -->
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
