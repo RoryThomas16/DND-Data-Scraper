@@ -48,5 +48,9 @@ The Notebook has been run with the following libraries:
 * Matplotlib
 * collections
 * nltk
+* imblearn
+* sklearn
+* seaborn
+* collections
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
