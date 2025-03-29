@@ -46,6 +46,7 @@ The Notebook has been run with the following libraries:
 * requests
 * BeautifulSoup
 * Matplotlib
+* numpy
 * collections
 * nltk
 * imblearn
