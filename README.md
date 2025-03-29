@@ -35,6 +35,8 @@ I basically look at a DND wiki to see if I can pull information about the spells
 - The Web Scraping is basically sifting through the data on the DND Wiki for the spells.
 - The NLP is sentiment analysis to try and train a model to identify what class (evocation, necromancy, transmutation, etc) of a spell based on its description.
 
+The info has been scraped from https://dnd5e.wikidot.com/. Thank you to the team <3.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
