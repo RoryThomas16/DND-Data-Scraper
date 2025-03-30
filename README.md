@@ -55,5 +55,6 @@ The Notebook has been run with the following libraries:
 * sklearn
 * seaborn
 * collections
+* deep_translator
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
